@@ -1,2 +1,2 @@
 # monster-slayer
-A tiny game buy Vue 3.
+A tiny game by Vue 3.
